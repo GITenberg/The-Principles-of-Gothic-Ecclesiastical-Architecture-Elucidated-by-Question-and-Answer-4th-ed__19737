@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8849
     wikipedia: http://en.wikipedia.org/wiki/Matthew_Bloxam
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19737#The-Principles-of-Gothic-Ecclesiastical-Architecture-Elucidated-by-Question-and-Answer-4th-ed_
 gutenberg_bookshelf: Architecture
 gutenberg_issued: '2006-11-08'
 gutenberg_type: Text
